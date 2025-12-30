@@ -27,12 +27,6 @@ Peng issuance follows a mandatory three-layer structure:
 
 **Physical Deposit → NFT Witness → Peng Jeton**
 
-### 📄 Peng Standard v1 – Paper
-
-Raw PDF:
-https://raw.githubusercontent.com/tartarys-archive/peng_standard_v.1/main/paper/peng_standard_v1.pdf
-
-
 ### 1. Physical Deposit  
 A tangible or intellectual cultural artifact accepted into custodial protection by the Tartarys Treasury (Gondnokság).
 
@@ -107,3 +101,9 @@ Misrepresentation is publicly documented.
 ---
 
 *“What is witnessed together cannot be erased alone.”*
+
+### 📄 Peng Standard v1 – Paper
+
+Raw PDF:
+https://raw.githubusercontent.com/tartarys-archive/peng_standard_v.1/main/paper/peng_standard_v1.pdf
+
