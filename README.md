@@ -103,6 +103,3 @@ Misrepresentation is publicly documented.
 *“What is witnessed together cannot be erased alone.”*
 
 
-
-
-https://raw.githubusercontent.com/tartarys-archive/peng_standard_v.1/main/paper/peng_standard_v1.pdf
