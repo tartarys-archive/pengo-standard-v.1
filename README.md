@@ -1,6 +1,6 @@
 # pengo_standard_v.1
 Pengo Standard - a cultural digital issuance model based on physical deposits, NFT witnessing and community ethics.
-# Peng Standard (v1)
+# Pengo Standard (v1)
 
 **Pengo** is a cultural and ethical digital standard designed to issue value only through verified physical or intellectual deposits, publicly witnessed by the community.
 
