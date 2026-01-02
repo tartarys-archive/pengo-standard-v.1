@@ -104,5 +104,14 @@ Misrepresentation is publicly documented.
 
 - [Download Raw PDF](https://raw.githubusercontent.com/tartarys-archive/pengo-standard-v.1/main/paper/pengo-standard-v.1%20.pdf)
 
+Raw:
+https://raw.githubusercontent.com/tartarys-archive/pengo-standard-v.1/main/drafts/pengo-code-mining.md
+
+Canonical timestamp: see GitHub commit history for `drafts/pengo-code-mining.md`.
+
+This section (“Pengo Code Mining”) was first disclosed publicly
+through a GitHub commit (cb6f5a3…69ccd88), providing an immutable
+timestamped reference.
+
 
 
