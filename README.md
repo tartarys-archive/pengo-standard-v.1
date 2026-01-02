@@ -100,8 +100,6 @@ Misrepresentation is publicly documented.
 
 ---
 
-*“What is witnessed together cannot be erased alone.”*
-
 ## 📄 Pengo Standard v1 (PDF)
 
 - [Download Raw PDF](https://raw.githubusercontent.com/tartarys-archive/pengo-standard-v.1/main/paper/pengo-standard-v.1%20.pdf)
